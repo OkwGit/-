@@ -1,4 +1,4 @@
 @echo off
-cd C:\Users\oxpas\Downloads\Long Image
+cd /d "%~dp0"
 python Program.py
 pause
